@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+
+print("This is file g1")
+print("It has no extension but contains python code.")
